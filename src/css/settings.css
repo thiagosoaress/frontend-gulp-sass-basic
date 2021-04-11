@@ -1,0 +1,10 @@
+body {
+  background-color: #d2d2c1;
+  background-image: url("../images/fundo.png"); }
+
+ul {
+  list-style: none; }
+
+a {
+  text-decoration: none;
+  color: #000; }
