@@ -1,3 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+  *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; }
+  *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; }
+
+ul {
+  list-style: none; }
+
+a {
+  text-decoration: none; }
+
+body {
+  background-color: #d2d2c1;
+  background-image: url("../images/fundo.png"); }
+
+ul {
+  list-style: none; }
+
+a {
+  text-decoration: none;
+  color: #000; }
+
 .main {
   max-width: 800px;
   margin: 0 auto; }
